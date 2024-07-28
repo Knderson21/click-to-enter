@@ -53,6 +53,16 @@
     z-index: -1;
 }
 
+.home {
+    padding: 0 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 14px 50px;
+    margin-top: 20px;
+}
+
 @media (min-aspect-ratio: 16/9) {
     .back-video {
         width: 100%;
